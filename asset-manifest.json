@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/speak-easy-b-movie-react/static/css/main.94a54fce.chunk.css",
+    "main.js": "/speak-easy-b-movie-react/static/js/main.6dc4fa73.chunk.js",
+    "main.js.map": "/speak-easy-b-movie-react/static/js/main.6dc4fa73.chunk.js.map",
+    "runtime-main.js": "/speak-easy-b-movie-react/static/js/runtime-main.9ea180a5.js",
+    "runtime-main.js.map": "/speak-easy-b-movie-react/static/js/runtime-main.9ea180a5.js.map",
+    "static/js/2.4212dc4e.chunk.js": "/speak-easy-b-movie-react/static/js/2.4212dc4e.chunk.js",
+    "static/js/2.4212dc4e.chunk.js.map": "/speak-easy-b-movie-react/static/js/2.4212dc4e.chunk.js.map",
+    "index.html": "/speak-easy-b-movie-react/index.html",
+    "precache-manifest.3a3ce7c036611631329edd20c9a97dbb.js": "/speak-easy-b-movie-react/precache-manifest.3a3ce7c036611631329edd20c9a97dbb.js",
+    "service-worker.js": "/speak-easy-b-movie-react/service-worker.js",
+    "static/css/main.94a54fce.chunk.css.map": "/speak-easy-b-movie-react/static/css/main.94a54fce.chunk.css.map",
+    "static/js/2.4212dc4e.chunk.js.LICENSE.txt": "/speak-easy-b-movie-react/static/js/2.4212dc4e.chunk.js.LICENSE.txt",
+    "static/media/speak_easy_b-bg-main.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-bg-main.a76ca5f5.jpg",
+    "static/media/speak_easy_b-bg-video.mp4": "/speak-easy-b-movie-react/static/media/speak_easy_b-bg-video.4e6952cb.mp4",
+    "static/media/speak_easy_b-photo-1.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-1.886c809f.jpg",
+    "static/media/speak_easy_b-photo-10.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-10.84db9fe5.jpg",
+    "static/media/speak_easy_b-photo-2.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-2.d8782fef.jpg",
+    "static/media/speak_easy_b-photo-3.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-3.aea45e99.jpg",
+    "static/media/speak_easy_b-photo-4.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-4.7d143fa9.jpg",
+    "static/media/speak_easy_b-photo-5.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-5.aaffc8a2.jpg",
+    "static/media/speak_easy_b-photo-6.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-6.895c1f44.jpg",
+    "static/media/speak_easy_b-photo-7.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-7.a20cc4cd.jpg",
+    "static/media/speak_easy_b-photo-8.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-8.b44b720b.jpg",
+    "static/media/speak_easy_b-photo-9.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-9.e1a939c3.jpg",
+    "static/media/speak_easy_b-the_story.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-the_story.8698dbb1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ea180a5.js",
+    "static/js/2.4212dc4e.chunk.js",
+    "static/css/main.94a54fce.chunk.css",
+    "static/js/main.6dc4fa73.chunk.js"
+  ]
+}
