@@ -1,0 +1,20 @@
+.gallery-img-col {
+	margin-bottom: 2px;
+
+	.gallery-img-container {
+		img {
+			width: 100%;
+		}
+	}
+}
+
+@media screen and (min-width: 768px) {
+	.gallery-img-col {
+		margin-bottom: 2px;
+
+		.gallery-img-container {
+			max-height: 238.64px;
+			overflow: hidden;
+		}
+	}
+}

@@ -1,0 +1,31 @@
+footer {
+	text-align: center;
+	padding: 20px 0;
+
+	figure {
+		display: inline-block;
+		margin: 0 3% 20px;
+
+		&:first-child {
+			width: 100px;
+			margin-top: 4px;
+		}
+
+		&:last-child {
+			width: 70px;
+		}
+	}
+
+	small {
+		font-size: 1rem;
+		color: $black;
+	}
+}
+
+@media screen and (max-width: ($tablet - .01)) {
+	footer {
+		span {
+			display: block;
+		}
+	}
+}

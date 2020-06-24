@@ -1,0 +1,24 @@
+.oneliner {
+	align-items: center;
+	height: unset;
+
+	div {
+		max-width: 900px;
+
+		h2 {
+			font-family: $display;
+			font-size: 2rem;
+			font-weight: 200;
+			text-align: center;
+		}
+	}
+}
+
+@media screen and (min-width: $tablet) {
+	.oneliner {
+		align-items: flex-end;
+		height: 50vh;
+		min-height: 300px;
+		padding-bottom: 60px;
+	}
+}

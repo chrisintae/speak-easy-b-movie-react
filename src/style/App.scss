@@ -1,0 +1,17 @@
+// base
+@import './base/config';
+@import './base/global';
+@import './base/helpers';
+
+// component
+@import './components/header';
+@import './components/main';
+@import './components/awards';
+@import './components/story';
+@import './components/poster-simple';
+@import './components/oneliner';
+@import './components/gallery';
+@import './components/modal';
+@import './components/contact';
+@import './components/footer';
+@import './base/elements';

@@ -1,0 +1,31 @@
+// external imports
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+// font
+$display: 'Oswald', sans-serif;
+$serif: 'EB Garamond', serif;
+
+// colors
+$absblack: #000000;
+$black: #141414; // #1b1b1b #000;
+$white: #fff;
+$ltgray: #dedede;
+$dkgray: #5e5e5e;
+
+// breakpoints
+$lgdesktop: 1600px;
+$desktop: 1200px;
+$tablet: 768px;
+$mobile: ($tablet - .01);
+
+// tokens
+$bg-body: $white;
+$bg-main: $black;
+$modal-bg: rgba(255, 255, 255, 0.75);
+$modal-container-bg: $white;
+$modal-shadow: $ltgray;
+$button-watch-shadow: $ltgray;
+$play-button-cirle: $white;
+$modal-container-video-bg: $absblack;
+$video-btn-color: $white;

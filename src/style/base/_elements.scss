@@ -1,0 +1,50 @@
+.watch-container {
+	position: fixed;
+	bottom: 0;
+	right: 10%;
+	padding-bottom: 10px;
+
+	.btn-container {
+		width: 150px;
+		height: 100px;
+		background: url(../../static/speak_easy_b-watch-button-bg.jpg);
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		box-shadow: 1px 1px 3px 3px $button-watch-shadow;
+
+		span {
+			font-size: 0;
+
+			&::before {
+				content: '';
+				position: absolute;
+				top: 0;
+				left: 0;
+				transform: translate(33%, 7%);
+				width: 56%;
+				height: 75%;
+				border: 2px solid #fff;
+				border-radius: 50%;
+			}
+
+			&::after {
+				content: '';
+				position: absolute;
+				top: 0;
+				left: 0;
+				transform: translate(33%, 7%);
+				width: 56%;
+				height: 75%;
+				border: 2px solid #fff;
+			}
+		}
+
+		&:hover {
+			background: url(../../static/speak_easy_b-watch-button-hover.gif);
+			background-size: cover;
+			background-position: center center;
+			background-repeat: no-repeat;
+		}
+	}
+}
