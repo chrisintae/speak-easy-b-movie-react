@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/speak-easy-b-movie-react/precache-manifest.3a3ce7c036611631329edd20c9a97dbb.js"
+  "/speak-easy-b-movie-react/precache-manifest.881eff94005493affe661a0b985bec35.js"
 );
 
 self.addEventListener('message', (event) => {
