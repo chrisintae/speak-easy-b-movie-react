@@ -2,9 +2,6 @@ import React, { Fragment } from 'react';
 import * as Scroll from 'react-scroll';
 import { Link } from 'react-scroll';
 
-import SeedSpark from '../static/speak_easy_b-Seed-and-Spark.svg';
-import Vimeo from '../static/speak_easy_b-vimeo.svg';
-
 const Layout = ({ children, onClickVideoModal }) => (
 	<Fragment>
 		<Header onClickVideoModal={onClickVideoModal} />
@@ -54,14 +51,6 @@ const Header = ({ onClickVideoModal }) => {
 
 const Footer = () => (
 	<footer>
-		<div className='container'>
-			<figure>
-				<img src={SeedSpark} alt='Seed & Spark' />
-			</figure>
-			<figure>
-				<img src={Vimeo} alt='Vimeo' />
-			</figure>
-		</div>
 		<div className='container'>
 			<small>
 				Copyright &copy; {new Date().getFullYear()} Speak Easy B Film.<span> All Rights Reserved. </span>
