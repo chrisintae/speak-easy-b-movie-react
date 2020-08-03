@@ -22,6 +22,16 @@ const Story = () => (
 						the desert serving as the stage for poetic confrontation. Through dream-like vignettes, the film
 						weaves together their struggle to balance gender, sexuality, and identity.
 					</p>
+
+					<p>
+						<a
+							target='_blank'
+							rel='noopener noreferrer'
+							href='https://www.seedandspark.com/fund/speakeasyb'
+						>
+							More on the making of Speak Easy, B
+						</a>
+					</p>
 				</div>
 
 				<div className='story-desc-col-right'>
