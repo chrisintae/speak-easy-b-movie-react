@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/speak-easy-b-movie-react/static/css/main.3952e308.chunk.css",
-    "main.js": "/speak-easy-b-movie-react/static/js/main.d61c623a.chunk.js",
-    "main.js.map": "/speak-easy-b-movie-react/static/js/main.d61c623a.chunk.js.map",
+    "main.css": "/speak-easy-b-movie-react/static/css/main.6d6b3b25.chunk.css",
+    "main.js": "/speak-easy-b-movie-react/static/js/main.57e02b0a.chunk.js",
+    "main.js.map": "/speak-easy-b-movie-react/static/js/main.57e02b0a.chunk.js.map",
     "runtime-main.js": "/speak-easy-b-movie-react/static/js/runtime-main.9ea180a5.js",
     "runtime-main.js.map": "/speak-easy-b-movie-react/static/js/runtime-main.9ea180a5.js.map",
-    "static/js/2.3441fcb6.chunk.js": "/speak-easy-b-movie-react/static/js/2.3441fcb6.chunk.js",
-    "static/js/2.3441fcb6.chunk.js.map": "/speak-easy-b-movie-react/static/js/2.3441fcb6.chunk.js.map",
+    "static/js/2.f6eaa1a1.chunk.js": "/speak-easy-b-movie-react/static/js/2.f6eaa1a1.chunk.js",
+    "static/js/2.f6eaa1a1.chunk.js.map": "/speak-easy-b-movie-react/static/js/2.f6eaa1a1.chunk.js.map",
     "index.html": "/speak-easy-b-movie-react/index.html",
-    "precache-manifest.881eff94005493affe661a0b985bec35.js": "/speak-easy-b-movie-react/precache-manifest.881eff94005493affe661a0b985bec35.js",
+    "precache-manifest.376b3109966dd13dcfbd038499ddf24c.js": "/speak-easy-b-movie-react/precache-manifest.376b3109966dd13dcfbd038499ddf24c.js",
     "service-worker.js": "/speak-easy-b-movie-react/service-worker.js",
-    "static/css/main.3952e308.chunk.css.map": "/speak-easy-b-movie-react/static/css/main.3952e308.chunk.css.map",
-    "static/js/2.3441fcb6.chunk.js.LICENSE.txt": "/speak-easy-b-movie-react/static/js/2.3441fcb6.chunk.js.LICENSE.txt",
+    "static/css/main.6d6b3b25.chunk.css.map": "/speak-easy-b-movie-react/static/css/main.6d6b3b25.chunk.css.map",
+    "static/js/2.f6eaa1a1.chunk.js.LICENSE.txt": "/speak-easy-b-movie-react/static/js/2.f6eaa1a1.chunk.js.LICENSE.txt",
     "static/media/award_2018_CISF-Best-Experimental.png": "/speak-easy-b-movie-react/static/media/award_2018_CISF-Best-Experimental.0a45330f.png",
     "static/media/award_2019_BESTEXPERIMENTAL-BROOKLYNWOMENSFILMFESTIVAL.png": "/speak-easy-b-movie-react/static/media/award_2019_BESTEXPERIMENTAL-BROOKLYNWOMENSFILMFESTIVAL.0b36ba7d.png",
     "static/media/award_2019_CAAMFest.png": "/speak-easy-b-movie-react/static/media/award_2019_CAAMFest.ca899cbf.png",
@@ -28,7 +28,6 @@
     "static/media/awards_2019_AsianAmericanShowcase.png": "/speak-easy-b-movie-react/static/media/awards_2019_AsianAmericanShowcase.07474d2d.png",
     "static/media/awards_2019_Vegas.png": "/speak-easy-b-movie-react/static/media/awards_2019_Vegas.d00949b0.png",
     "static/media/awards_BEST-SHORTS-Excellence.png": "/speak-easy-b-movie-react/static/media/awards_BEST-SHORTS-Excellence.c28c9a38.png",
-    "static/media/speak_easy_b-Seed-and-Spark.svg": "/speak-easy-b-movie-react/static/media/speak_easy_b-Seed-and-Spark.4081a0be.svg",
     "static/media/speak_easy_b-bg-main.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-bg-main.a76ca5f5.jpg",
     "static/media/speak_easy_b-bg-video.mp4": "/speak-easy-b-movie-react/static/media/speak_easy_b-bg-video.4e6952cb.mp4",
     "static/media/speak_easy_b-photo-1.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-photo-1.6a45bd66.jpg",
@@ -44,13 +43,12 @@
     "static/media/speak_easy_b-poster-1.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-poster-1.7f9b4a0a.jpg",
     "static/media/speak_easy_b-poster-2.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-poster-2.6714f3ed.jpg",
     "static/media/speak_easy_b-the_story.jpg": "/speak-easy-b-movie-react/static/media/speak_easy_b-the_story.8698dbb1.jpg",
-    "static/media/speak_easy_b-vimeo.svg": "/speak-easy-b-movie-react/static/media/speak_easy_b-vimeo.a405753e.svg",
     "static/media/App.scss": "/speak-easy-b-movie-react/static/media/speak_easy_b-watch-button-hover.75bfaf33.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.9ea180a5.js",
-    "static/js/2.3441fcb6.chunk.js",
-    "static/css/main.3952e308.chunk.css",
-    "static/js/main.d61c623a.chunk.js"
+    "static/js/2.f6eaa1a1.chunk.js",
+    "static/css/main.6d6b3b25.chunk.css",
+    "static/js/main.57e02b0a.chunk.js"
   ]
 }

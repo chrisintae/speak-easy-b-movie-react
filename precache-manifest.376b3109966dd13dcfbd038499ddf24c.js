@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d0eb3bd9e94bba5c358b34b0e493d6d",
+    "revision": "8c2855a011d68b812e5de253260c6958",
     "url": "/speak-easy-b-movie-react/index.html"
   },
   {
-    "revision": "7cc2f4d85f0900e84712",
-    "url": "/speak-easy-b-movie-react/static/css/main.3952e308.chunk.css"
+    "revision": "e69b0b4a9c2e12c7abaa",
+    "url": "/speak-easy-b-movie-react/static/css/main.6d6b3b25.chunk.css"
   },
   {
-    "revision": "e33223e1203c5b1d9c1e",
-    "url": "/speak-easy-b-movie-react/static/js/2.3441fcb6.chunk.js"
+    "revision": "4e64299514aeabdd6aab",
+    "url": "/speak-easy-b-movie-react/static/js/2.f6eaa1a1.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/speak-easy-b-movie-react/static/js/2.3441fcb6.chunk.js.LICENSE.txt"
+    "url": "/speak-easy-b-movie-react/static/js/2.f6eaa1a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7cc2f4d85f0900e84712",
-    "url": "/speak-easy-b-movie-react/static/js/main.d61c623a.chunk.js"
+    "revision": "e69b0b4a9c2e12c7abaa",
+    "url": "/speak-easy-b-movie-react/static/js/main.57e02b0a.chunk.js"
   },
   {
     "revision": "adc8017334637f577f73",
@@ -88,10 +88,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/speak-easy-b-movie-react/static/media/awards_BEST-SHORTS-Excellence.c28c9a38.png"
   },
   {
-    "revision": "4081a0be424955ab1dc14ef6af50880c",
-    "url": "/speak-easy-b-movie-react/static/media/speak_easy_b-Seed-and-Spark.4081a0be.svg"
-  },
-  {
     "revision": "a76ca5f599e5a1ff225035ae1157f896",
     "url": "/speak-easy-b-movie-react/static/media/speak_easy_b-bg-main.a76ca5f5.jpg"
   },
@@ -150,10 +146,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8698dbb157e8e676a7ee194d42bdc945",
     "url": "/speak-easy-b-movie-react/static/media/speak_easy_b-the_story.8698dbb1.jpg"
-  },
-  {
-    "revision": "a405753ecf83c40e3df0ef45c2a05c83",
-    "url": "/speak-easy-b-movie-react/static/media/speak_easy_b-vimeo.a405753e.svg"
   },
   {
     "revision": "948e1ab02f1fca1c01481bc0649310fc",
