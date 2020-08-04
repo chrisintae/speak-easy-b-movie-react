@@ -4,6 +4,8 @@ header {
 	left: 0;
 	right: 0;
 	z-index: 3;
+	background: $white;
+	box-shadow: 0 0 5px $ltgray;
 	margin: 0 auto;
 	padding: 15px 0;
 
@@ -11,7 +13,7 @@ header {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
-		align-items: flex-start;
+		align-items: center;
 
 		.logo h1 {
 			font-family: $display;
@@ -23,7 +25,7 @@ header {
 			cursor: pointer;
 
 			span {
-				display: block;
+				display: inline;
 			}
 
 			&::after {
@@ -34,20 +36,53 @@ header {
 }
 
 nav {
-	display: none;
+	display: block;
+
+	ul li {
+		display: none;
+		font-family: $display;
+		font-size: 1rem;
+		letter-spacing: .5px;
+		margin: 0 9px;
+
+		&:first-child {
+			display: inline;
+
+			span {
+				color: $dkgray;
+				border: 2px solid $dkgray;
+				padding: 7px 25px;
+				cursor: pointer;
+				transition: all .2s ease;
+
+				&:hover {
+					color: $black;
+					border-color: $black;
+				}
+			}
+		}
+	}
 }
 
 @media screen and (min-width: $tablet) {
+	header {
+		background: transparent;
+		box-shadow: none;
+
+		.header-container {
+			align-items: flex-start;
+
+			.logo h1 span {
+				display: block;
+			}
+		}
+	}
+
 	nav {
-		display: block;
 		ul {
 			li {
 				display: inline;
 				list-style: none;
-				font-family: $display;
-				font-size: 1rem;
-				letter-spacing: .5px;
-				margin: 0 9px;
 
 				a {
 					position: relative;
@@ -75,19 +110,6 @@ nav {
 						&::after {
 							transform: scaleX(1);
 						}
-					}
-				}
-
-				span {
-					color: $dkgray;
-					border: 2px solid $dkgray;
-					padding: 7px 25px;
-					cursor: pointer;
-					transition: all .2s ease;
-
-					&:hover {
-						color: $black;
-						border-color: $black;
 					}
 				}
 			}

@@ -34,6 +34,14 @@
 
 		p {
 			font-family: $serif;
+
+			&:last-child {
+				padding-top: 25px;
+			}
+
+			a {
+				color: $black;
+			}
 		}
 	}
 

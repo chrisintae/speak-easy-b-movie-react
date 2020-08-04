@@ -27,12 +27,6 @@ const App = () => {
 					<div class='headline-container'>
 						<h1 className='subtitle'>A film by Becca Park</h1>
 						<h1 className='title'>Speak Easy, B</h1>
-						<div className='video-btn-container'>
-							Watch Trailer
-							<span className='video-btn-circle' onClick={toggleVideoModal}>
-								<span className='video-btn-arrow' />
-							</span>
-						</div>
 					</div>
 				</div>
 				<div class='bg-video-container'>
