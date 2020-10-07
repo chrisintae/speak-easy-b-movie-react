@@ -7,7 +7,7 @@ const Video = () => {
 		<Fragment>
 			<iframe
 				title='vimeo-player'
-				src='https://player.vimeo.com/video/267936491'
+				src='https://player.vimeo.com/video/267046000'
 				frameborder='0'
 				allowfullscreen
 			/>
